@@ -1,0 +1,10 @@
+.text{
+    @font-face {
+        font-family: 'Baumans';
+        src: url('https://fonts.google.com/?query=Baumans') format('truetype');
+      }
+}
+
+#taskButton1 {
+  cursor: pointer;
+}
